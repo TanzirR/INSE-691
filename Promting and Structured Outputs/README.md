@@ -1,5 +1,3 @@
-# INSE 691 – Foundations of AI Agent Systems
-
 ## Lab 2: Paper Searching & Indexing Agent Prompt Contract
 
 **Submitted by:** Tanzir Razzaque  
